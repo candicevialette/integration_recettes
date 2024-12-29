@@ -1,4 +1,5 @@
 # 🛡️ Intégration et Recettes de Cybersécurité
+![Banner](Image/background.png)
 
 ## 🔄 Description
 Ce dépôt propose des ressources dédiées à l'intégration et aux tests de cybersécurité. Vous y trouverez des configurations réseau, des guides d'intégration, et des exercices pratiques pour renforcer vos compétences en sécurité informatique.
@@ -24,16 +25,16 @@ L'intégration de cybersécurité consiste à incorporer des mesures de sécurit
 🗂 integration-recettes-cybersecurite/
 |
 ├── 🗂 Documents/
-│   ├── Guide_Integration_Cybersecurite.pdf
-│   └── Procedure_Recette_Securite.pdf
+│   ├──Intégration et recette de cybersécurité.pdf
+│   └──Intégration et recette de cybersécurité.docx
 |
-├── 🗂 Configurations/
-│   ├── Config_Firewall.cfg
-│   ├── Config_IDS.cfg
-│   └── Config_VPN.cfg
+├── 🗂 Programmes/
+│   ├── applocker.bat
+│   ├── MD5.bat
+│   └── TLS.bat
 |
 ├── 🗂 Images/
-│   └── schema_reseau.png
+│   └── background.png
 |
 └── README.md
 ```
